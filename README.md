@@ -4,6 +4,9 @@ Este proyecto te permite hacer preguntas directamente desde tu consola a GPT-4 u
 
 ![AskGPT CLI](assets/AskGPT.png)
 
+[![Ver demo en GitHub Pages](https://img.shields.io/badge/Ver%20demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://javiermorron.github.io/askgpt-cli/)
+[![Ver demo en YouTube](https://img.shields.io/badge/Ver%20demo%20en%20YouTube-%F0%9F%93%BA-red?style=for-the-badge&logo=youtube)](https://youtu.be/UAYdPv0EiUM?si=fpb0wHwZTQ5Bshk0)
+
 ---
 
 ## 🚀 ¿Cómo usarlo?
@@ -37,17 +40,9 @@ model: "gpt-4"
 
 ## 🎥 Demo de la app
 
-> Terminal + IA + Python funcionando en tiempo real:  
-👉 [Ver demo en GitHub Pages](https://javiermorron.github.io/askgpt-cli/)
-
-```html
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/h5jk6zluuNA"
-title="AskGPT CLI"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-```
+> Terminal + IA + Python funcionando en tiempo real.  
+👉 [Ver demo en GitHub Pages](https://javiermorron.github.io/askgpt-cli/)  
+🎮 [Ver video en YouTube](https://youtu.be/UAYdPv0EiUM?si=fpb0wHwZTQ5Bshk0)
 
 ---
 
