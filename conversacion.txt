@@ -1,0 +1,22 @@
+Usuario: help
+GPT: Of course! I'm here to help. Could you please tell me more specifically what you need assistance with?
+
+Usuario: help
+GPT: Of course! I'm here to assist you. Can you please provide more details about the matter you need help with?
+
+Usuario: Que puedes hacer
+GPT: Como asistente de inteligencia artificial, puedo realizar muchas tareas para ti, incluyendo:
+
+1. Responder a preguntas generales o específicas.
+2. Organizar tu calendario y establecer recordatorios.
+3. Reproducir música, podcasts o audiolibros.
+4. Buscar información en Internet.
+5. Proporcionar actualizaciones meteorológicas y de noticias.
+6. Ayudarte a aprender un nuevo idioma.
+7. Ayudarte a realizar cálculos matemáticos.
+8. Enviar mensajes de texto o hacer llamadas en tu nombre (si se trata de un asistente en un dispositivo móvil).
+9. Ayudarte a comprar en línea.
+10. Ayudarte a navegar a través de mapas y direcciones.
+
+Estas son solo algunas de las cosas que puedo hacer. Mi objetivo principal es ayudarte en lo que necesites y hacer tu vida más fácil.
+
